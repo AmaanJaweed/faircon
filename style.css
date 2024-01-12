@@ -135,6 +135,7 @@ img {
 
 .nav__logo {
   height: 4.5rem;
+  width:30rem;
   transition: all 0.3s;
 }
 
